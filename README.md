@@ -23,4 +23,4 @@ Early detection of breast cancer greatly improves survival rates. This project a
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/biikashsubedi/Breast-Cancer-Classification-ML.git](https://github.com/biikashsubedi/Breast-Cancer-Classification-ML.git)
+   git clone https://github.com/biikashsubedi/Breast-Cancer-Classification-ML.git
